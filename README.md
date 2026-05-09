@@ -141,18 +141,6 @@ streamlit run app/dashboard.py
 - **Economy discipline matters**: teams spending on full-buys have 8–12% higher win rates than eco-heavy teams on the same map
 
 ---
-
-## 📝 Resume Bullet Points
-
-> Use these directly in your data science / ML engineer resume:
-
-- **Built a 4-module end-to-end esports ML system** on 35,910 VCT player-match records, achieving **94.1% match prediction accuracy** and **0.988 ROC-AUC** using an LightGBM/XGBoost ensemble with SHAP explainability
-- **Engineered 25+ advanced features** including difficulty-weighted clutch indices, JSON-parsed economy round metrics, and 3/5-game rolling performance averages — reducing model error vs. raw stats by >30%
-- **Designed a custom player impact rating** via XGBoost regression (R² ≈ 1.00), ranking 489 professional players and surfacing a 0.87 Pearson correlation between the ML score and traditional ACS while additionally capturing clutch and economy dimensions
-- **Built an interactive Streamlit analytics dashboard** with match prediction interface, filterable player leaderboard, PCA/t-SNE cluster explorer, and map-level win rate heatmaps — deployed with full Plotly interactivity
-
----
-
 ## 📄 License
 
 MIT © 2025
